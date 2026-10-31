@@ -1,0 +1,6 @@
+{
+  "name": "Kuehne + Nagel Claims 3D Dashboard",
+  "description": "Dashboard interactivo 3D para gestión de casos y novedades logísticas con carga y análisis de archivos Excel, filtros ejecutivos y visualización tridimensional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
